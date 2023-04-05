@@ -1,3 +1,3 @@
 # DataMining
 
-Tugas-tugas Data mining A11.2020.12809
+run pada Google collab,lalu upload Data.csv pada folder data pada Google collab 
