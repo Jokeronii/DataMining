@@ -1,3 +1,3 @@
 # DataMining
 
-run pada Google collab,lalu upload Data.csv pada folder data pada Google collab 
+run pada Google collab,lalu upload file yang ada pada folder dataset ke Google collab
